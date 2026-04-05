@@ -1,22 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=macOS%20DevOps%20Setup&fontSize=40&fontAlignY=40&desc=Minimal%20•%20Fast%20•%20Reproducible&descAlignY=60&color=0:1AA3F0,100:F9C829" />
+  <img src="assets/banner.png" alt="macOS DevOps Setup banner" width="80%" />
 </p>
 
 <p align="center">
-  Automate your macOS environment like real infrastructure
+  <strong>Automate your macOS environment like real infrastructure</strong>
 </p>
 
 <p align="center">
-  <i>No manual setup. No inconsistencies. Just code.</i>
+  <em>No manual setup. No inconsistencies. Just code.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/spahalyants">
-    <img src="https://img.shields.io/badge/GitHub-spahalyants-181717?style=flat-square&logo=github"/>
-  </a>
-  <img src="https://img.shields.io/badge/macOS-Automation-111111?style=flat-square&logo=apple"/>
-  <img src="https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnu-bash"/>
-  <img src="https://img.shields.io/badge/License-MIT-3fb950?style=flat-square"/>
+  <img src="https://img.shields.io/badge/macOS-Automation-111111?style=flat-square&logo=apple&logoColor=white" alt="macOS Automation" />
+  <img src="https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Bash" />
+  <img src="https://img.shields.io/badge/License-MIT-3fb950?style=flat-square" alt="MIT License" />
 </p>
 
 ---
