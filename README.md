@@ -20,8 +20,6 @@ This project transforms macOS into a fully automated development environment.
 
 Instead of manually installing tools, configuring settings, and repeating setup steps, everything is defined as code.
 
-> Treat your laptop like infrastructure.
-
 ---
 
 ## Installation
