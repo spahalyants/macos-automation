@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>Automate your macOS environment like real infrastructure</strong>
-</p>
-
-<p align="center">
   <em>No manual setup. No inconsistencies. Just code.</em>
 </p>
 
